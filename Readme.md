@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Kazi+Tanvir!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Kazi+Tanvir!;+from+VIT+University" />
 </h1>
 
 <h3 align="center">Postgraduate Student | Researcher | Inventor | Machine Learning & Deep Learning Enthusiast</h3>
