@@ -31,10 +31,3 @@
 
 
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=KaziTanvir&show_icons=true&title_color=34c759&icon_color=0d6efd&text_color=ffffff&bg_color=0a0a0a">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaziTanvir&size_weight=0.0005&count_weight=0.3&layout=compact&title_color=34c759&text_color=ffffff&bg_color=0a0a0a&icon_color=0d6efd">
-</p>
-
-
-
